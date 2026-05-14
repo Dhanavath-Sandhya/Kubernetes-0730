@@ -71,15 +71,6 @@ Responsible for:
 
 ---
 
-### 4. Redis
-
-Used for:
-
-* Caching
-* Performance optimization
-
----
-
 # Argo CD Workflow
 
 Developer Pushes Code → Git Repository → Argo CD Detects Changes → Syncs to Kubernetes Cluster
