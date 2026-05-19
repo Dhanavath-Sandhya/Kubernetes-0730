@@ -94,7 +94,6 @@ kubernetes/
 | StatefulSet | Stateful applications |
 | DaemonSet | One pod per node |
 | Job | Run one-time tasks |
-| CronJob | Scheduled jobs |
 
 ---
 
