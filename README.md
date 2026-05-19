@@ -86,8 +86,8 @@ kubernetes/
 │
 ├── 01-architecture/
 ├── 02-pods/
-├── 03-replication-controller/
 ├── 04-replicaset/
+├── 05-vpc-cni/
 ├── 05-deployments/
 ├── 06-services/
 ├── 07-ingress/
@@ -96,7 +96,7 @@ kubernetes/
 ├── 10-volumes/
 ├── 11-statefulsets/
 ├── 12-daemonsets/
-├── 13-jobs-cronjobs/
+├── 13-HPA/
 ├── 14-taints-tolerations/
 ├── 15-node-affinity/
 ├── 16-networking/
